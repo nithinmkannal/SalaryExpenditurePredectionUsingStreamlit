@@ -7,7 +7,7 @@ states = [
     "Assam",
     "Bihar",
     "Chhattisgarh",
-    "Jammu and kashmir"
+    "Jammu and kashmir",
     "Goa",
     "Gujarat",
     "Haryana",
@@ -32,7 +32,6 @@ states = [
     "Uttar Pradesh",
     "Uttarakhand",
     "West Bengal",
-    "Andaman and Nicobar Islands",
     "Chandigarh",
     "Delhi",
     "Puducherry"
